@@ -6,7 +6,7 @@ void main() {
 
   double totalGrade = numberOfSubjects * gradePerSubject;
 
-  bool isPassing = totalGrade > 300;
+  bool isPassing = totalGrade > 500;
 
   print('Student: $studentName');
   print('Enrolled: $isEnrolled');
