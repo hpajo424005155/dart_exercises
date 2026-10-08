@@ -1,4 +1,4 @@
-# Dart Fundamentals of Data Mining Exercise
+# Dart Mobile Development Exercise
 
 **Name:** Harvey Pajo
 **Section:** BSIT 3.2
