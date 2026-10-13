@@ -1,0 +1,24 @@
+
+=== Student Grade Checker ===
+
+Checking student: Harvey
+-> Grade: 91.5 | Result: Excellent
+
+Checking student: Cedric
+-> Grade: 81.0 | Result: Passed
+
+Checking student: Andrew
+-> [Error Handled]: "abc" is not a valid grade. Skipped.
+
+Checking student: Jcep
+-> Grade: 73.0 | Result: Failed
+
+Checking student: Edward
+-> Grade: 94.0 | Result: Excellent
+
+= Summary =
+Passed: 3
+Failed: 1
+= Program Finished =
+
+Exited.

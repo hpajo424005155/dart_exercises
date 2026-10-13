@@ -1,0 +1,10 @@
+Connecting to VM Service at ws://127.0.0.1:51023/Ekq2g8IwtQM=/ws
+Connected to the VM Service.
+Student: Harvey Pajo
+Enrolled: true
+Number of Subjects: 7
+Grade per Subject: 90.5
+Total Grade: 633.5
+Is the total grade above 500? true
+
+Exited.
