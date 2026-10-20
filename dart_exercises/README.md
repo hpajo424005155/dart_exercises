@@ -18,7 +18,17 @@ A simple student grade calculator that computes total grade based on number of s
 ## Scenario Week 8
 A simple student grade checker that processes multiple students using conditionals, loops, functions, and error handling. The program determines if each student passed or failed based on their grade.
 
-## --------------------------------------------------
+## -------------------------------------------------- 
+
+**Name:** Harvey Pajo
+**Section:** BSIT 3.2
+**Date:** Oct 20, 2026
+
+## Scenario Week 9
+
+A Jeepney Terminal System that models a real-world jeepney using a Dart class.
+
+## -------------------------------------------------- 
 
 ## How to Run
 ```bash
