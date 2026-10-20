@@ -1,0 +1,12 @@
+
+- Jeepney Terminal System -
+
+Route: Quiapo - Cubao | Capacity: 16 passengers
+Status before start: Off
+Jeepney on route Quiapo - Cubao: Engine is now On. Vroom!
+
+Route: Baclaran - Divisoria | Capacity: 23 passengers
+Status before start: Off
+Jeepney on route Baclaran - Divisoria: Engine is now On. Vroom!
+
+Exited.
