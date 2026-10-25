@@ -1,0 +1,15 @@
+
+= Week 11: Async Jeepney System =
+
+Route: Quiapo - Cubao | Capacity: 16 passengers
+Jeepney Engine: "Broooommm! Bababa ba"
+Aircon is ON. Brrr! (Cooling the passengers)
+
+- Loading Data -
+The app is still responsive! You can still tap buttons.
+    [System] Fetching route data from server...
+    [System] Data fetched successfully for route Quiapo - Cubao!
+
+Loading complete. Done!
+
+Exited.
