@@ -36,7 +36,7 @@ A Jeepney Terminal System that models a real-world jeepney using a Dart class.
 
 ## Scenario Week 10
 
-A Jeepney Terminal System that models a real-world jeepney using a Dart class.
+An enhanced transport system demonstrating advanced OOP concepts.
 
 ## -------------------------------------------------- 
 
