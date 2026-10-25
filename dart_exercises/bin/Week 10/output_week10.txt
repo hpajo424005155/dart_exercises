@@ -1,0 +1,12 @@
+
+= Week 10: Enhanced OOP Terminal =
+
+Jeepney Engine: "Broooommm! Bababa ba?"
+Route: Quiapo - Cubao | Capacity: 16 passengers
+Aircon is ON. Brrr! (Cooling the passengers)
+////////////////
+Bus Engine: "BZZZT! (Loud diesel sound)"
+Route: PITX - Fairview | Capacity: 30 passengers
+////////////////
+
+Exited.
