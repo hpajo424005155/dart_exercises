@@ -30,6 +30,27 @@ A Jeepney Terminal System that models a real-world jeepney using a Dart class.
 
 ## -------------------------------------------------- 
 
+**Name:** Harvey Pajo
+**Section:** BSIT 3.2
+**Date:** Oct 25, 2026
+
+## Scenario Week 10
+
+A Jeepney Terminal System that models a real-world jeepney using a Dart class.
+
+## -------------------------------------------------- 
+
+**Name:** Harvey Pajo
+**Section:** BSIT 3.2
+**Date:** Oct 27, 2026
+
+## Scenario Week 11
+
+A Jeepney Terminal System that models a real-world jeepney using a Dart class.
+
+## -------------------------------------------------- 
+
+
 ## How to Run
 ```bash
 dart run bin/dart_exercises.dart
