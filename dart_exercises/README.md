@@ -73,6 +73,24 @@ An enhanced OOP transport system with async behavior to simulate network data fe
 
 ## -------------------------------------------------- 
 
+**Name:** Harvey Pajo
+**Section:** BSIT 3.2
+**Date:** Nov 3, 2026
+
+## Scenario Week 12 Terminal Assessment
+
+This repository contains my final submission for Milestone 2 (Terminal Assessment 2). The program is a console-based Transport System that integrates all the core Dart concepts learned from Week 7 to Week 11. It demonstrates variables, control structures, functions, Object-Oriented Programming (OOP), and Asynchronous programming.
+
+**Features:**
+- **Variables & Data Types:** Used String for routes and int for capacity.
+- **OOP - Inheritance:** Jeepney and Tricycle classes extend the PublicTransport base class to reuse code.
+- **OOP - Abstract Class:** The Vehicle abstract class enforces a contract that all vehicles must have a startEngine() method.
+- **OOP - Polymorphism:** The startEngine() method is overridden to produce distinct sounds for the Jeepney and the Tricycle.
+- **OOP - Mixin:** The AirConditioned mixin is applied only to the Jeepney, demonstrating selective code reuse.
+- **Async/Await:** The fetchPlayerRoster() method uses Future.delayed to simulate a network request without freezing the UI.
+
+## -------------------------------------------------- 
+
 
 ## How to Run
 ```bash
