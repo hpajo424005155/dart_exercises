@@ -1,0 +1,18 @@
+- Milestone 2: Transport System -
+
+===== Jeepney Engine: "Brooommmm! Bababa ba?" =====
+Route: Quiapo - Cubao | Capacity: 16 passengers
+   Aircon is ON. Brrr!
+
+   [UI Thread] App is still responsive while loading data...
+
+   [System] Fetching player roster for route Quiapo - Cubao...
+
+   [System] Data fetched successfully!
+
+===== Tricycle Engine: "Tugutututug!" =====
+Route: Barangay 1 - Barangay 2 | Capacity: 4 passengers
+
+ - Program Finished -
+
+Exited.
